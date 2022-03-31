@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
+
+
+#start{
+    background-color: blue;
+    color: #000000;
+    font-family: 'Architects Daughter', handwriting;
+    font-size: 20px;
+    height: 60px;
+    width: 100px;
+    border: 0;
+    transform: translate(575%, 550%)
+}
+
+html{
+    background-color: black;
+}
